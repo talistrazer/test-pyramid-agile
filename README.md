@@ -17,8 +17,6 @@ Criada por Mike Cohn no livro *Succeeding with Agile*, ela orienta sobre **quant
 
 👉 Times que invertem a pirâmide acabam sofrendo com **refatorações lentas, alto custo e baixa confiança** nos deploys.  
 
-![Pirâmide de Testes](https://miro.medium.com/v2/resize:fit:720/format:webp/1*B_GFdYyAzDQJ5xpoEphQfA.png)
-
 ---
 
 ## 🔺 Estrutura da Pirâmide
